@@ -1,1 +1,8 @@
+# 24.10.2026
+## Neu angefangen weil ich nicht zufrieden war mit meiner letzten Präsentation.
+- Repository erstellt
+- Leitfrage, mögliche Dienste und wichtige funktionen hinzugefügt
+
+# 26.10.2026
+- In der Recherche Datei, 3 kriterien hinzugefügt mit Pruffragen 
 
