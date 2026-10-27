@@ -6,3 +6,5 @@
 # 26.10.2026
 - In der Recherche Datei, 3 kriterien hinzugefügt mit Pruffragen 
 
+# 27.10.2026
+- Tabelle weiter gemacht und über die Preise und über dee Eigenschaften der Passwordmanager recherchiert.

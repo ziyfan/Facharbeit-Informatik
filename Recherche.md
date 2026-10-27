@@ -20,24 +20,28 @@
 
 | Dienst | Kostenmodell | Quellcode | Worin unterscheidet er sich? | Beleg und Abrufdatum |
 | --- | --- | --- | --- | --- |
-| Keeper | [kostenpflichtig / kostenlos / kostenlos mit Zusatzangeboten / unklar] | [Open Source / nicht Open Source / ungeklärt] | [kurzer Hinweis] | [Quelle, Datum] |
+| Keeper | Besitzt eine kostenlose Version / 51€ pro Jahr | Nicht Open Source | Dark-Web Monitoring | https://www.keepersecurity.com/de_DE/personal-breachwatch.html 27.10.26 | 
+| Bitwarden | Hat eine sehr gute kostenlose Version mit vielen Funktionen / 20€ pro Jahr für die Premium Option| Open Source| Beste Kostenfreie Version  | https://bitwarden.com/de-de/products/personal/ 27.10.26 |
 | Nordpass | [kostenpflichtig / kostenlos / kostenlos mit Zusatzangeboten / unklar] | [Open Source / nicht Open Source / ungeklärt] | [kurzer Hinweis] | [Quelle, Datum] |
-| Bitwarden | [kostenpflichtig / kostenlos / kostenlos mit Zusatzangeboten / unklar] | [Open Source / nicht Open Source / ungeklärt] | [kurzer Hinweis] | [Quelle, Datum] |
 
 
 
 
 
-
+                                        
 
 
 
 
 ## Quellen
 
-- https://www.keepersecurity.com/blog/de/2025/07/18/8-features-to-look-for-in-a-password-manager/
-- https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html
-- https://www.keepersecurity.com/blog/de/2022/11/30/why-you-should-use-a-random-password-generator/
+- https://www.keepersecurity.com/blog/de/2025/07/18/8-features-to-look-for-in-a-password-manager/        26.10.26
+- https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-EmpfehlungenCyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html 26.10.26 
+- https://www.keepersecurity.com/blog/de/2022/11/30/why-you-should-use-a-random-password-generator/   26.10.26
+- https://www.keepersecurity.com/de_DE/free-trial-vs-free-version.html       27.10.26
+- https://www.keepersecurity.com/de_DE/pricing/personal-and-family.html      27.10.26
+- https://www.keepersecurity.com/de_DE/personal-breachwatch.html             27.10.26
+- https://github.com/bitwarden                                               27.10.26
 
 
 
