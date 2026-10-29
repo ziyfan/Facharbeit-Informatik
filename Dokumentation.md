@@ -8,3 +8,6 @@
 
 # 27.10.2026
 - Tabelle weiter gemacht und über die Preise und über dee Eigenschaften der Passwordmanager recherchiert.
+
+# 29.10.26
+- Tabelle vervollständigt, ausgewählten dienst und gründe aufgeschrieben und allgemein die recherche vervollständigt
