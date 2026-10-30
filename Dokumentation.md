@@ -14,3 +14,6 @@
 
 # 30.10.2026
 - An der Präsentation weiter gearbeitet und änderungen gemacht.
+
+# 31.10.2026
+- In der Präsentation eine Folie hinzugefügt mit erklärungen über den 3 Punkten.

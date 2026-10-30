@@ -152,7 +152,7 @@ style: |
 
 - Ziyu Fan
 - 9c
-- 2<>.11.26
+- 2.11.26
 
 </div>
 
@@ -182,6 +182,45 @@ style: |
 
 ---
 
+<div class="titel">
+
+# Die Punkte Erklärt
+
+</div>
+
+<div class="karten">
+  <div class="karte">
+
+  **Preis**
+
+  - Wie viel der Passwortmanager Kostet
+  - Was man alles bekommt für den Preis
+
+  </div>
+  <div class="karte">
+
+  **Zero Knowledge Sicherheitr**
+
+  - Das die Passwörter local verschlüsselt werden
+  - Das die Anbieter / der Passwortmanager kein zugriff auf 
+
+  
+
+  </div>
+  <div class="karte">
+
+  **Passwortgenerator**
+
+  - Gute Passwörter einfach generieren können.
+
+ </div>
+</div>
+
+<div class="fusszeile">
+  Überblick · Ziyu Fan, 9c
+</div>
+
+---
 
 <div class="titel">
 
