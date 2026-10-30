@@ -142,73 +142,105 @@ style: |
 
 <div class="titel">
 
-# Titel deiner Präsentation
+# Welcher Passwortmanager ist die Beste option für den Preis?
 
 </div>
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Name
-- Klasse
-- Datum
+
+
+- Ziyu Fan
+- 9c
+- 2<>.11.26
 
 </div>
 
 <div class="fusszeile">
-  Titel · Name, Klasse
+  Passwortmanager · Ziyu Fan, 9c
 </div>
 
 ---
 
 <div class="titel">
 
-# Eine Folie mit einer Aussage
+# Welche Punkte sind mir wichtig in einem Passwortmanager
 
 </div>
 
 <div class="liste">
 
-- Erster Stichpunkt
-- Zweiter Stichpunkt
-- Dritter Stichpunkt
+- Preis
+- Zero Knowledge Sicherheit
+- Passwortgenerator
 
 </div>
 
 <div class="fusszeile">
-  Einleitung · Name, Klasse
+  Welche Punkte sind mir wichtig in einem Passwortmanager · Ziyu Fan, 9c
+</div>
+
+---
+
+
+<div class="titel">
+
+# Bekannte Passwortmanager
+
+</div>
+
+<div class="liste">
+
+- Bitwarden
+- Keeper
+- Nordpass
+
+</div>
+
+<div class="fusszeile">
+ Bekannte Passwortmanager · Ziyu Fan, 9c
 </div>
 
 ---
 
 <div class="titel">
 
-# Kostenmodell und Quellcode getrennt betrachten
+# Drei Dienste im Überblick
 
 </div>
 
-<div class="grid-2">
-  <div class="spalte">
+<div class="karten">
+  <div class="karte">
 
-  **Kostenmodell**
+  **Bitwarden**
 
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
+  - kostenlos mit Zusatzangeboten
+  - Quellcode: Open Source
+  - Unterschied: Billigste Option
 
   </div>
-  <div class="spalte">
+  <div class="karte">
 
-  **Quellcode**
+  **Keeper**
 
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
+  - kostenpflichtig
+  - Quellcode: Nicht Open Source
+  - Unterschied: Dark-Web Monitoring
+
+  </div>
+  <div class="karte">
+
+  **Nordpass**
+
+  -  kostenlos mit Zusatzangeboten
+  - Quellcode: Nicht Open Source
+  - Unterschied: Benutzt das beste Verschlüsselungsalgorithmus
 
   </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Überblick · Ziyu Fan, 9c
 </div>
 
 ---

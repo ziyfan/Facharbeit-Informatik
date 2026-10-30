@@ -9,5 +9,8 @@
 # 27.10.2026
 - Tabelle weiter gemacht und über die Preise und über dee Eigenschaften der Passwordmanager recherchiert.
 
-# 29.10.26
-- Tabelle vervollständigt, ausgewählten dienst und gründe aufgeschrieben und allgemein die recherche vervollständigt
+# 29.10.2026
+- Tabelle vervollständigt, ausgewählten dienst und gründe aufgeschrieben und allgemein die recherche vervollständigt.
+
+# 30.10.2026
+- An der Präsentation weiter gearbeitet und änderungen gemacht.
