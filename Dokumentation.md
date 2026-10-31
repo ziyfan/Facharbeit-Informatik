@@ -17,3 +17,4 @@
 
 # 31.10.2026
 - In der Präsentation eine Folie hinzugefügt mit erklärungen über den 3 Punkten.
+- Präsentation vervollständigt.

@@ -25,7 +25,7 @@
 
 | Dienst | Kostenmodell | Quellcode | Worin unterscheidet er sich? | Beleg und Abrufdatum |
 | --- | --- | --- | --- | --- |
-| Keeper |kostenpflichtig | Nicht Open Source | Dark-Web Monitoring | https://www.keepersecurity.com/de_DE/personal-breachwatch.html 27.10.26 | 
+| Keeper |kostenlos mit Zusatzangeboten | Nicht Open Source | Dark-Web Monitoring | https://www.keepersecurity.com/de_DE/personal-breachwatch.html 27.10.26 | 
 | Bitwarden | kostenlos mit Zusatzangeboten| Open Source|Beste Kostenlose option  | https://bitwarden.com/de-de/products/personal/ 27.10.26 |
 | Nordpass | kostenlos mit Zusatzangeboten |Nicht Open Source | Benutzt das beste Verschlüsselungsalgorithmus | https://nordpass.com/de/features/xchacha20-encryption/ 29.10.26 |
 
@@ -50,7 +50,7 @@
 ## Quellen
 
 - https://www.keepersecurity.com/blog/de/2025/07/18/8-features-to-look-for-in-a-password-manager/        26.10.26
-- https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-EmpfehlungenCyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html 26.10.26 
+- https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/ Informationen-und-EmpfehlungenCyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html 26.10.26 
 - https://www.keepersecurity.com/blog/de/2022/11/30/why-you-should-use-a-random-password-generator/   26.10.26
 - https://www.keepersecurity.com/de_DE/free-trial-vs-free-version.html       27.10.26
 - https://www.keepersecurity.com/de_DE/pricing/personal-and-family.html      27.10.26

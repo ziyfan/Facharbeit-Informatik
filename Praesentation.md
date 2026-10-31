@@ -262,7 +262,7 @@ style: |
 
   **Keeper**
 
-  - kostenpflichtig
+  - kostenlos mit Zusatzangeboten
   - Quellcode: Nicht Open Source
   - Unterschied: Dark-Web Monitoring
 
@@ -284,113 +284,70 @@ style: |
 
 ---
 
+
+
 <div class="titel">
 
-# Eine breite und eine schmale Spalte
+# Fazit
 
 </div>
 
-<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
-  <div class="spalte">
+<div class="liste">
 
-  - Erklärung, Aufzählung oder Fließtext
-  - Der Text bekommt zwei Teile der Breite
-
-  </div>
-  <div class="spalte">
-
-  **Kurzfassung**
-
-  - Ein Satz
-
-  </div>
+- Bitwarden ist die Beste option
+- Billigste option
+- Open Source
+- Viele Funktionen
+- Kostenlos
 </div>
 
 <div class="fusszeile">
-  Detail und Überblick · Name, Klasse
+  Fazit · Ziyu Fan, 9c
 </div>
 
 ---
 
+
+
 <div class="titel">
 
-# Drei Dienste im Überblick
+# Danke für ihre Aufmerksamkeit
 
 </div>
 
-<div class="karten">
-  <div class="karte">
 
-  **Dienst A**
 
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
 
-  </div>
-  <div class="karte">
-
-  **Dienst B**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-  <div class="karte">
-
-  **Dienst C**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
 </div>
 
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Fazit · Ziyu Fan, 9c
 </div>
 
 ---
-
 <div class="titel">
 
-# Merksatz oder Kasten
+# Quellen
 
 </div>
 
-<div class="merksatz">
-  Ein Satz, den das Publikum behalten soll.
-</div>
+<div class="liste">
 
-<div class="box">
+- [Funktionen die man in einem Passwortmanager suchen sollte](https://www.keepersecurity.com/blog/de/2025/07/18/8-features-to-look-for-in-a-password-manager/), abgerufen am 26.10.26
+- [Wie erstellt man ein sicheres Passwort](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html), abgerufen am 26.MM.JJ
+- [Warum man ein Passwortgenerator nutzen sollte](https://www.keepersecurity.com/blog/de/2022/11/30/why-you-should-use-a-random-password-generator/), abgerufen am 26.10.26
+- [Keeper Funktionen]( https://www.keepersecurity.com/de_DE/free-trial-vs-free-version.html ), abgerufen am 27.10.26
+- [Keeper preise](https://www.keepersecurity.com/de_DE/pricing/personal-and-family.html), abgerufen am 27.10.26
+- [Keeper Breachwatch](https://www.keepersecurity.com/de_DE/personal-breachwatch.html), abgerufen am 27.10.26
+- [Bitwardens Source code](https://github.com/bitwarden), abgerufen am 27.10.26
 
-- Ein Punkt
-- Ein weiterer Punkt
+
+
 
 </div>
 
 <div class="fusszeile">
-  Merksatz · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Bild mit Beschreibung
-
-</div>
-
-<div class="bild">
-
-![Kurze Beschreibung des Bildes](bilder/beispiel.png)
-
-</div>
-
-<div class="fusszeile">
-  Bild · Name, Klasse
+  Quellen · Ziyu Fan, 9c
 </div>
 
 ---
@@ -403,11 +360,17 @@ style: |
 
 <div class="liste">
 
-- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
-- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
+- [Bitwardens Preise]( https://bitwarden.com/de-de/products/personal/), abgerufen am 27.10.26
+- [Nordpass Preise](https://nordpass.com/de/password-manager/  ), abgerufen am 29.10.26
+- [Nordpass Verschlüsselung](https://nordpass.com/de/features/xchacha20-encryption/ ), abgerufen am 29.10.26
+
+
+
+
+
 
 </div>
 
 <div class="fusszeile">
-  Quellen · Name, Klasse
+  Quellen · Ziyu Fan, 9c
 </div>
